@@ -1,0 +1,23 @@
+body{
+	background-color: crimson 
+}
+<style type="text/css">
+h1{
+	font-size: 50px;
+	color: red
+}
+h2{
+	color: #AE00CD;
+	font-size: 47px;
+}
+.big{
+	font-size: 60px;
+	color: blue;
+}
+
+	.lowercase{text-transform: lowercase;
+}
+h1 span{
+	color:violet;
+}
+	</style>
